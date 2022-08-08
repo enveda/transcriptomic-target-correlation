@@ -26,9 +26,6 @@ The project has the following structure:
 |   |-- Transcriptional_data_frames
 |   |-- target_data_frames
 |-- figures (paper figures)
-|-- machine_learning
-|   |-- machine_learning_code
-|   |-- drug_classification
 `-- notebooks (correlation analyses)
     |-- 1_chempert_preprocessing.ipynb
     |-- 2_correlation_chempert.ipynb
