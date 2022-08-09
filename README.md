@@ -36,10 +36,3 @@ The project has the following structure:
     |-- utils.py
     `-- viz.py
 ```
-
-## Citation
-
-If you have found our study useful in your work, please consider citing:
-
-Chloe Engler, *et al.* (2022). [On the correspondence between the transcriptomic response of a compound and its targets](), bioRxiv
-
