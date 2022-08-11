@@ -1,4 +1,4 @@
-# On the correspondence between the transcriptomic response of a compound and its targets
+# On the correspondence between the transcriptomic response of a compound and its effects on its targets
 
 ## Table of Contents
 
