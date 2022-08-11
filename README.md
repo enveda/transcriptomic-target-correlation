@@ -9,10 +9,13 @@
 
 
 ## General Info
-This repository contains code and data for our paper, "On the correspondence between the transcriptomic signatures and the known target of drugs" (Engler *et al.*, 2022), which investigates the agreement between transcriptomic signatures and target information for over 2,000 chemical compounds.
+This repository contains code and data for our paper, "On the correspondence between the transcriptomic response of a
+compound and its effects on its targets" (Engler *et al.*, 2022), which investigates the agreement between
+transcriptomic profiles and target information for over 2,000 chemical compounds.
 
 ## Dataset
-The data comes from [ChemPert](https://chempert.uni.lu/) a tools containing mappings between chemical perturbation and transcriptional response for non-cancer cells.
+The data comes from [ChemPert](https://chempert.uni.lu/) a tools containing mappings between chemical perturbation and
+transcriptional response for non-cancer cells.
 
 ## Code
 The project has the following structure:
