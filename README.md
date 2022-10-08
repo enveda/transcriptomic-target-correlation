@@ -17,6 +17,9 @@ transcriptomic profiles and target information for over 2,000 chemical compounds
 The data comes from [ChemPert](https://chempert.uni.lu/) a tools containing mappings between chemical perturbation and
 transcriptional response for non-cancer cells.
 
+The ChemPert dataset and other used and generated data is available at Zenodo
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7164118.svg)](https://doi.org/10.5281/zenodo.7164118).
+
 ## Code
 The project has the following structure:
 
