@@ -36,7 +36,12 @@ The project has the following structure:
     |-- 1_chempert_preprocessing.ipynb
     |-- 2_correlation_chempert.ipynb
     |-- 3_pathway_info_for_target_vectors.ipynb
+    |-- 3.1_random_pathway_target_vectors.ipynb
+    |-- 3.2_random_network_target_vectors.ipynb
     |-- 4_pathway_correlation_analysis.ipynb
+    |-- 4.1_random_networks.ipynb
+    |-- 4.2_random_pathways.ipynb
+    |-- 4.3_multifactorial_analysis
     |-- 5_similar_transcriptomic_profiles.ipynb
     |-- 6_Network_figure.ipynb
     |-- utils.py
