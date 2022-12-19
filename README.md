@@ -41,7 +41,7 @@ The project has the following structure:
     |-- 4_pathway_correlation_analysis.ipynb
     |-- 4.1_random_networks.ipynb
     |-- 4.2_random_pathways.ipynb
-    |-- 4.3_multifactorial_analysis
+    |-- 4.3_multifactorial_analysis.ipynb
     |-- 5_similar_transcriptomic_profiles.ipynb
     |-- 6_Network_figure.ipynb
     |-- utils.py
