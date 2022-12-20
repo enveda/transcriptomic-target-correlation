@@ -10,7 +10,7 @@
 
 ## General Info
 This repository contains code and data for our paper, "On the correspondence between the transcriptomic response of a
-compound and its effects on its targets" (Engler *et al.*, 2022), which investigates the agreement between
+compound and its effects on its targets" (Hart *et al.*, 2022), which investigates the agreement between
 transcriptomic profiles and target information for over 2,000 chemical compounds.
 
 ## Dataset
