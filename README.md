@@ -35,6 +35,7 @@ The project has the following structure:
 `-- notebooks (correlation analyses)
     |-- 1_chempert_preprocessing.ipynb
     |-- 2_correlation_chempert.ipynb
+    |-- 2.1_DEG_analysis.ipynb
     |-- 3_pathway_info_for_target_vectors.ipynb
     |-- 3.1_random_pathway_target_vectors.ipynb
     |-- 3.2_random_network_target_vectors.ipynb
@@ -42,7 +43,6 @@ The project has the following structure:
     |-- 4.1_random_networks_analysis.ipynb
     |-- 4.2_random_pathways_analysis.ipynb
     |-- 4.3_multifactorial_analysis.ipynb
-    |-- 4.4_DEG_analysis.ipynb
     |-- 5_similar_transcriptomic_profiles.ipynb
     |-- 6_Network_figure.ipynb
     |-- utils.py
