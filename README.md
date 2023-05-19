@@ -17,7 +17,7 @@ transcriptomic profiles and target information for over 2,000 chemical compounds
 If you have found our manuscript useful in your work, please consider citing:
 
 > Hart C. E, Ence D., Healey, D., Domingo-Fernández, D. (2023).
-On the correspondence between the transcriptomic response of a compound and its effects on its targets. *BMC Bioinformatics*. [DOI](https://doi.org/10.1186/s12859-023-05337-6)
+On the correspondence between the transcriptomic response of a compound and its effects on its targets. *BMC Bioinformatics*. 24, 207. [DOI](https://doi.org/10.1186/s12859-023-05337-6)
 
 ## Dataset
 The data comes from [ChemPert](https://chempert.uni.lu/) a tools containing mappings between chemical perturbation and
